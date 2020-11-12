@@ -1,6 +1,6 @@
 body {
     position: absolute;
-    border-style: solid;
+    border-style: none;
     width: 800px;
     height: 1000px;
     margin-left: 200px;
@@ -9,7 +9,7 @@ body {
 header {
     position: relative;
     border-style: solid;
-    width: 100%;
+    width: 770px;
     height: 10%;
     text-align: center;
     background-color: darkgoldenrod;
@@ -87,7 +87,7 @@ h2 {
 }
 
 footer {
-    width: 100%;
+    width: 770px;
     height: 10%;
     border-style: solid;
     margin-top: 555px;
