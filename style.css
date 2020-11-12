@@ -7,7 +7,6 @@ body {
 }
 
 header {
-    position: relative;
     border-style: solid;
     width: 770px;
     height: 10%;
@@ -16,7 +15,6 @@ header {
 }
 
 .section1 {
-    position: relative;
     border-style: solid;
     width: 65%;
     height: 35%;
@@ -26,7 +24,6 @@ header {
 }
 
 article {
-    position: relative;
     border-style: solid;
     width: 60%;
     height: 60%;
@@ -35,7 +32,6 @@ article {
 }
 
 .aside1 {
-    position: relative;
     border-style: solid ;
     width: 30%;
     height: 25%;
@@ -45,7 +41,6 @@ article {
 }
 
 .aside2 {
-    position: relative;
     border-style: solid ;
     width: 30%;
     height: 25%;
@@ -54,7 +49,6 @@ article {
     background-color: red;
 }
 .section2{
-    position: relative;
     border-style: solid;
     width: 65%;
     height: 35%;
@@ -64,7 +58,6 @@ article {
 }
 
 .aside3 {
-    position: relative;
     border-style: solid ;
     width: 30%;
     height: 25%;
@@ -79,7 +72,6 @@ nav {
     height: 20%;
     margin-top: -733px;
     background-color: dodgerblue;
-
 }
 
 h2 {
