@@ -1,0 +1,97 @@
+body {
+    position: absolute;
+    border-style: solid;
+    width: 800px;
+    height: 1000px;
+    margin-left: 200px;
+}
+
+header {
+    position: relative;
+    border-style: solid;
+    width: 100%;
+    height: 10%;
+    margin-right: 2px;
+    text-align: center;
+    background-color: darkgoldenrod;
+}
+
+.section1 {
+    position: relative;
+    border-style: solid;
+    width: 65%;
+    height: 45%;
+    margin-left: 248px;
+    margin-top: 30px;
+    background-color: mediumslateblue;
+}
+
+article {
+    position: relative;
+    border-style: solid;
+    width: 60%;
+    height: 60%;
+    margin-left: 20px;
+    background-color: dodgerblue;
+}
+
+.aside1 {
+    position: relative;
+    border-style: solid ;
+    width: 30%;
+    height: 25%;
+    margin-left: 345px;
+    margin-top: -215px;
+    background-color: red;
+}
+
+.aside2 {
+    position: relative;
+    border-style: solid ;
+    width: 30%;
+    height: 25%;
+    margin-left: 345px;
+    margin-top: 10px;
+    background-color: red;
+}
+.section2{
+    position: relative;
+    border-style: solid;
+    width: 65%;
+    height: 25%;
+    margin-left: 248px;
+    margin-top: 20px;
+    background-color: mediumslateblue;
+}
+
+.aside3 {
+    position: relative;
+    border-style: solid ;
+    width: 30%;
+    height: 25%;
+    margin-left: 345px;
+    margin-top: 100px;
+    background-color: red;
+}
+
+nav {
+    border-style: solid;
+    width: 25%;
+    height: 20%;
+    margin-top: -733px;
+    background-color: dodgerblue;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+footer {
+    position: relative;
+    border-style: solid;
+    width: 100%;
+    height: 10%;
+    background-color: darkgoldenrod;
+    margin-top: 557px;
+}
